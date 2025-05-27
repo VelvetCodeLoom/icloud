@@ -156,21 +156,39 @@
 
       async function fetchIcons() {
         try {
-          const urls = [
+          // JSON 格式的 icon 源
+          const jsonUrls = [
             'https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon-surge.json',
             'https://raw.githubusercontent.com/leekowen/surge-games/main/icons.json',
           ];
 
-          const responses = await Promise.all(urls.map(url => fetch(url).then(res => res.text())));
-
-          const allData = responses.map(text => {
-            // 清理多余的逗号
+          // 获取 JSON 图标数据
+          const jsonResponses = await Promise.all(
+            jsonUrls.map(url => fetch(url).then(res => res.text()))
+          );
+          const jsonData = jsonResponses.map(text => {
             text = text.replace(/,\s*](?=\s*})/, ']');
             return JSON.parse(text);
           });
 
-          // 合并所有 icons 数组
-          allIcons = allData.flatMap(data => data.icons || []);
+          // 合并 json 源的 icons
+          let mergedIcons = jsonData.flatMap(data => data.icons || []);
+
+          // 🔥 新增：从 GitHub 获取 Color 文件夹图标
+          const githubRes = await fetch(
+            'https://api.github.com/repos/Koolson/Qure/contents/IconSet/Color'
+          );
+          const githubIcons = await githubRes.json();
+
+          const githubIconList = githubIcons
+            .filter(file => file.type === 'file' && file.name.endsWith('.png'))
+            .map(file => ({
+              name: file.name.replace('.png', ''), // 去掉后缀
+              url: file.download_url,
+            }));
+
+          // 合并所有 icons
+          allIcons = [...mergedIcons, ...githubIconList];
 
           renderIcons(allIcons);
         } catch (e) {
