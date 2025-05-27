@@ -156,13 +156,22 @@
 
       async function fetchIcons() {
         try {
-          const res = await fetch(
-            'https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon-surge.json'
-          );
-          let text = await res.text();
-          text = text.replace(/,\s*](?=\s*})/, ']');
-          const data = JSON.parse(text);
-          allIcons = data.icons || [];
+          const urls = [
+            'https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon-surge.json',
+            'https://raw.githubusercontent.com/leekowen/surge-games/main/icons.json',
+          ];
+
+          const responses = await Promise.all(urls.map(url => fetch(url).then(res => res.text())));
+
+          const allData = responses.map(text => {
+            // 清理多余的逗号
+            text = text.replace(/,\s*](?=\s*})/, ']');
+            return JSON.parse(text);
+          });
+
+          // 合并所有 icons 数组
+          allIcons = allData.flatMap(data => data.icons || []);
+
           renderIcons(allIcons);
         } catch (e) {
           console.error('获取图标失败', e);
