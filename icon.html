@@ -35,16 +35,37 @@
         flex-shrink: 0;
       }
 
-      #scrollProgressBar {
+      #scrollProgressContainer {
         position: fixed;
-        top: 0;
+        bottom: 0;
         left: 0;
-        height: 4px;
-        background-color: #007bff;
-        width: 0%;
-        z-index: 9999;
+        height: 6px;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.08);
+        z-index: 1001;
+      }
+
+      #scrollProgressBar {
+        height: 100%;
+        width: 0;
+        background: linear-gradient(to right, #f4c542, #ffd700);
         transition: width 0.2s ease;
       }
+
+      #scrollProgressText {
+        position: fixed;
+        bottom: 10px;
+        right: 16px;
+        font-size: 0.9rem;
+        color: #fff;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-weight: bold;
+        backdrop-filter: blur(4px);
+        z-index: 1002;
+      }
+
       .icon-count {
         text-align: center;
         margin-top: 0.5rem;
@@ -55,7 +76,7 @@
         letter-spacing: 0.02em;
         user-select: none;
       }
-      
+
       .highlight-number {
         color: #f4c542; /* 金黄色，也可以用 #007bff 蓝色 */
         font-weight: 700;
@@ -292,4 +313,4 @@
           opacity: 1;
           transform: translateY(0);
         }
-      }</style><script defer="defer" src="/icloud/bundle.js"></script></head><body><header><div id="scrollProgressBar"></div><h1>图标展示</h1><div class="search-bar"><input type="search" id="search" placeholder="🔍 输入关键词搜索图标..." autocomplete="off"/></div><div class="icon-count" id="iconCount"></div></header><div id="loading"><div class="spinner"></div><div class="loading-text">图标加载中...</div></div><div class="grid" id="icon-grid"></div><button id="backToTop" title="返回顶部"><svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.59 5.58L20 12l-8-8-8 8z"/></svg></button></body></html>
+      }</style><script defer="defer" src="/icloud/bundle.js"></script></head><body><header><div id="scrollProgressContainer"><div id="scrollProgressBar"></div><div id="scrollProgressText">已浏览 0%</div></div><h1>图标展示</h1><div class="search-bar"><input type="search" id="search" placeholder="🔍 输入关键词搜索图标..." autocomplete="off"/></div><div class="icon-count" id="iconCount"></div></header><div id="loading"><div class="spinner"></div><div class="loading-text">图标加载中...</div></div><div class="grid" id="icon-grid"></div><button id="backToTop" title="返回顶部"><svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.59 5.58L20 12l-8-8-8 8z"/></svg></button></body></html>
