@@ -102,7 +102,6 @@
         background: #28a745 !important;
       }
 
-      /* 下面是响应式针对不同设备微调 */
       @media (max-width: 768px) {
         body {
           padding: 1rem;
@@ -142,27 +141,76 @@
           font-size: 11px;
         }
       }
+
+      /* 返回顶部按钮 */
+      #backToTop {
+        position: fixed;
+        bottom: 40px;
+        right: 30px;
+        z-index: 1000;
+        display: none;
+        width: 48px;
+        height: 48px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        animation: fadeInUp 0.5s;
+      }
+
+      #backToTop:hover {
+        background-color: #0056b3;
+        transform: translateY(-3px);
+      }
+
+      #backToTop svg {
+        width: 20px;
+        height: 20px;
+        fill: white;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
     </style>
   </head>
   <body>
     <h1>图标展示</h1>
     <div class="search-bar">
-      <input type="text" id="search" placeholder="🔍 输入关键词搜索图标..." />
+      <input type="text" id="search" placeholder="🔍 输入关键词搜索图标..."  />
     </div>
     <div class="grid" id="icon-grid"></div>
+
+    <!-- 返回顶部按钮（使用 SVG 图标） -->
+    <button id="backToTop" title="返回顶部">
+      <svg viewBox="0 0 24 24">
+        <path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.59 5.58L20 12l-8-8-8 8z" />
+      </svg>
+    </button>
 
     <script>
       let allIcons = [];
 
       async function fetchIcons() {
         try {
-          // JSON 格式的 icon 源
           const jsonUrls = [
             'https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon-surge.json',
             'https://raw.githubusercontent.com/leekowen/surge-games/main/icons.json',
           ];
 
-          // 获取 JSON 图标数据
           const jsonResponses = await Promise.all(
             jsonUrls.map(url => fetch(url).then(res => res.text()))
           );
@@ -171,10 +219,9 @@
             return JSON.parse(text);
           });
 
-          // 合并 json 源的 icons
           let mergedIcons = jsonData.flatMap(data => data.icons || []);
 
-          // 🔥 新增：从 GitHub 获取 Color 文件夹图标
+          // 加载 GitHub 文件夹图标
           const githubRes = await fetch(
             'https://api.github.com/repos/Koolson/Qure/contents/IconSet/Color'
           );
@@ -183,13 +230,11 @@
           const githubIconList = githubIcons
             .filter(file => file.type === 'file' && file.name.endsWith('.png'))
             .map(file => ({
-              name: file.name.replace('.png', ''), // 去掉后缀
+              name: file.name.replace('.png', ''),
               url: file.download_url,
             }));
 
-          // 合并所有 icons
           allIcons = [...mergedIcons, ...githubIconList];
-
           renderIcons(allIcons);
         } catch (e) {
           console.error('获取图标失败', e);
@@ -207,6 +252,7 @@
           const img = document.createElement('img');
           img.src = icon.url;
           img.alt = icon.name;
+          img.loading = 'lazy'; // 🌟关键优化点
 
           const name = document.createElement('div');
           name.className = 'name';
@@ -241,6 +287,23 @@
       });
 
       fetchIcons();
+
+      // 返回顶部逻辑
+      const backToTopBtn = document.getElementById('backToTop');
+      window.addEventListener('scroll', () => {
+        if (document.documentElement.scrollTop > 300) {
+          backToTopBtn.style.display = 'flex';
+        } else {
+          backToTopBtn.style.display = 'none';
+        }
+      });
+
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth',
+        });
+      });
     </script>
   </body>
 </html>
