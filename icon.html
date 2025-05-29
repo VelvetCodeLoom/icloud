@@ -10,7 +10,9 @@
       body {
         display: flex;
         flex-direction: column;
-        height: 100vh;
+        height: calc(var(--vh, 1vh) * 100); /* 适应移动设备的视口高度 */
+        padding-top: env(safe-area-inset-top); /* 适应刘海屏 */
+        padding-bottom: env(safe-area-inset-bottom); /* 适应刘海屏 */
         margin: 0;
         background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80')
           no-repeat center center fixed;
