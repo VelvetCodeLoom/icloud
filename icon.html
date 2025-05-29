@@ -14,21 +14,58 @@
         padding-top: env(safe-area-inset-top); /* 适应刘海屏 */
         padding-bottom: env(safe-area-inset-bottom); /* 适应刘海屏 */
         margin: 0;
-        background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80')
-          no-repeat center center fixed;
-        background-size: cover;
+        background: radial-gradient(ellipse at bottom, #0c1a2c 0%, #03040a 100%);
+
+        /* 增加层次：加柔和光晕 */
+        background-image: radial-gradient(
+            circle at 20% 30%,
+            rgba(70, 90, 120, 0.25),
+            transparent 60%
+          ),
+          radial-gradient(circle at 80% 70%, rgba(90, 100, 140, 0.15), transparent 70%);
+        background-blend-mode: screen;
         overflow: hidden;
       }
+      body::after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 4px;
+        background: linear-gradient(to right, #f9d423, #ff4e50); /* 金橘到粉橙 */
+        box-shadow: 0 0 16px 2px rgba(255, 200, 50, 0.8); /* 更强泛光 */
+        z-index: 1000;
+      }
+
       body::before {
         content: '';
         position: fixed;
-        inset: 0;
-        background: rgba(0, 0, 0, 0.35);
-        backdrop-filter: blur(8px);
-        z-index: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
         pointer-events: none;
+        z-index: 0;
+
+        /* 细微星点 */
+        background: radial-gradient(circle, rgba(255, 255, 255, 0.12) 1px, transparent 1.4px),
+          radial-gradient(circle, rgba(255, 255, 255, 0.08) 1px, transparent 1.4px);
+        background-position: 0 0, 40px 40px;
+        background-size: 80px 80px;
+        filter: drop-shadow(0 0 1px rgba(255 255 255 / 0.25));
+
+        animation: star-move 150s linear infinite;
       }
 
+      @keyframes star-move {
+        from {
+          background-position: 0 0, 40px 40px;
+        }
+        to {
+          background-position: 80px 80px, 120px 120px;
+        }
+      }
       header {
         padding: 1.5rem 1rem 1rem;
         background: #fff;
@@ -53,8 +90,18 @@
       #scrollProgressBar {
         height: 100%;
         width: 0;
-        background: linear-gradient(to right, #f4c542, #ffd700);
         transition: width 0.2s ease;
+        background: linear-gradient(to right, #ffd700, #ffa500, #f4c542);
+        animation: shimmer 2s infinite;
+      }
+
+      @keyframes shimmer {
+        0% {
+          background-position: -200px 0;
+        }
+        100% {
+          background-position: 200px 0;
+        }
       }
 
       #scrollProgressText {
@@ -368,8 +415,9 @@
       }
 
       #backToTop:hover {
-        background-color: #0056b3;
-        transform: translateY(-3px);
+        background-color: #ff6f00;
+        transform: translateY(-5px) rotate(15deg);
+        box-shadow: 0 0 10px #ff9800, 0 0 20px #ffcc80;
       }
 
       #backToTop svg {
