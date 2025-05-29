@@ -11,7 +11,6 @@
         display: flex;
         flex-direction: column;
         height: 100vh;
-        overflow: hidden; /* 防止body自身滚动 */
         margin: 0;
         background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80')
           no-repeat center center fixed;
@@ -33,6 +32,8 @@
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         z-index: 10;
         flex-shrink: 0;
+        min-height: 100px; /* 试试设置最小高度 */
+        align-items: center; /* 中心对齐内容 */
       }
 
       #scrollProgressContainer {
@@ -43,6 +44,7 @@
         width: 100%;
         background: rgba(0, 0, 0, 0.08);
         z-index: 1001;
+        pointer-events: none; /* 让它不阻挡点击 */
       }
 
       #scrollProgressBar {
@@ -118,7 +120,8 @@
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
         border: 2px solid transparent;
         background-clip: padding-box;
-        z-index: 1;
+        z-index: 20; /* 提升层级 */
+        background: #fff; /* 加白底，保证输入框清晰 */
         transition: border-color 0.4s ease, box-shadow 0.4s ease;
         border: 2px solid #007bff;
       }
@@ -153,7 +156,6 @@
         color: #000;
       }
 
- 
       /* 图标区域，撑满剩余空间且允许纵向滚动 */
       .grid {
         flex: 1 1 auto;
@@ -349,4 +351,4 @@
           opacity: 1;
           transform: translateY(0);
         }
-      }</style><script defer="defer" src="/icloud/bundle.js"></script></head><body><header><div id="scrollProgressContainer"><div id="scrollProgressBar"></div><div id="scrollProgressText">已浏览 0%</div></div><h1>图标展示</h1><div class="search-bar"><input id="search" placeholder="🔍 输入关键词搜索图标..."/> <button id="clearSearch" class="clear-btn" title="清除搜索" aria-label="清除">×</button></div><div class="icon-count" id="iconCount"></div></header><div id="loading"><div class="spinner"></div><div class="loading-text">图标加载中...</div></div><div class="grid" id="icon-grid"><div id="spacer"></div><div id="visible-icons"></div></div><button id="backToTop" title="返回顶部"><svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.59 5.58L20 12l-8-8-8 8z"/></svg></button></body></html>
+      }</style><script defer="defer" src="/icloud/bundle.js"></script></head><body><header><h1>图标展示</h1><div class="search-bar"><input id="search" placeholder="🔍 输入关键词搜索图标..."/> <button id="clearSearch" class="clear-btn" title="清除搜索" aria-label="清除">×</button></div><div class="icon-count" id="iconCount"></div></header><div id="loading"><div class="spinner"></div><div class="loading-text">图标加载中...</div></div><div id="scrollProgressContainer"><div id="scrollProgressBar"></div><div id="scrollProgressText">已浏览 0%</div></div><div class="grid" id="icon-grid"><div id="spacer"></div><div id="visible-icons"></div></div><button id="backToTop" title="返回顶部"><svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.59 5.58L20 12l-8-8-8 8z"/></svg></button></body></html>
