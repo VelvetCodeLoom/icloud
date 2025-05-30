@@ -2,80 +2,91 @@
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="2; URL=icon.8e7617d59e997f3a9ea3.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>正在跳转...</title>
+    <title>页面跳转中...</title>
+    <meta http-equiv="refresh" content="0; URL=icon.34823c49d93bec881b1f.html" />
     <style>
       :root {
-        --primary: #f9cc00;
-        --accent: #ff8800;
-        --bg-gradient: linear-gradient(135deg, #fff8e1, #ffe082, #fdd835);
-        --glass: rgba(255, 255, 255, 0.6);
-        --text-color: #333;
+        --gold: #f9c80e;
+        --deep-blue: #232946;
+        --glass: rgba(255, 255, 255, 0.15);
+        --text: #ffffff;
+        --shadow: rgba(0, 0, 0, 0.3);
       }
 
       * {
-        box-sizing: border-box;
         margin: 0;
         padding: 0;
+        box-sizing: border-box;
       }
 
-      body {
-        min-height: 100vh;
-        background: var(--bg-gradient);
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-        color: var(--text-color);
+      html, body {
+        height: 100%;
+        background: linear-gradient(135deg, var(--gold), var(--deep-blue));
+        font-family: 'Segoe UI', 'Roboto', sans-serif;
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 2rem;
+        color: var(--text);
       }
 
       .card {
-        backdrop-filter: blur(12px);
         background: var(--glass);
-        border-radius: 20px;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
         padding: 2rem 2.5rem;
-        max-width: 400px;
-        width: 100%;
+        border-radius: 20px;
+        box-shadow: 0 12px 36px var(--shadow);
+        max-width: 480px;
+        width: 90%;
         text-align: center;
-        animation: fadeIn 0.8s ease-out;
+        animation: fadeInUp 0.8s ease-out;
       }
 
-      .card h1 {
-        font-size: 1.5rem;
+      h1 {
+        font-size: 1.8rem;
         margin-bottom: 1rem;
+        letter-spacing: 0.5px;
+      }
+
+      .countdown {
+        font-size: 1rem;
+        margin-bottom: 1.2rem;
+        animation: pulse 1s infinite ease-in-out;
       }
 
       .spinner {
-        margin: 1.5rem auto;
         width: 48px;
         height: 48px;
-        border: 6px solid #fff;
-        border-top: 6px solid var(--accent);
+        border: 6px solid rgba(255, 255, 255, 0.3);
+        border-top: 6px solid var(--gold);
         border-radius: 50%;
         animation: spin 1s linear infinite;
+        margin: 1.5rem auto;
       }
 
       a {
-        color: var(--accent);
+        color: var(--gold);
+        font-weight: bold;
         text-decoration: none;
-        font-weight: 600;
-        word-break: break-all;
+        word-break: break-word;
+        transition: color 0.3s;
       }
 
       a:hover {
-        text-decoration: underline;
+        color: #ffe95d;
       }
 
       @keyframes spin {
-        to {
-          transform: rotate(360deg);
-        }
+        to { transform: rotate(360deg); }
       }
 
-      @keyframes fadeIn {
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.05); }
+      }
+
+      @keyframes fadeInUp {
         from {
           opacity: 0;
           transform: translateY(20px);
@@ -87,21 +98,30 @@
       }
 
       @media (max-width: 480px) {
-        .card {
-          padding: 1.5rem;
-        }
-
-        .card h1 {
-          font-size: 1.25rem;
-        }
+        h1 { font-size: 1.4rem; }
+        .card { padding: 1.5rem; }
       }
     </style>
   </head>
   <body>
     <div class="card">
-      <h1>正在跳转到最新页面...</h1>
+      <h1>🚀 正在前往新版页面</h1>
+      <div class="countdown">将在 <span id="sec">0</span> 秒后跳转...</div>
       <div class="spinner"></div>
-      <p>若未跳转，请点击：<br /><a href="icon.8e7617d59e997f3a9ea3.html">icon.8e7617d59e997f3a9ea3.html</a></p>
+      <p>若未跳转，请点击：<br><a href="icon.34823c49d93bec881b1f.html">icon.34823c49d93bec881b1f.html</a></p>
     </div>
+
+    <script>
+      // JS 倒计时动画
+      const span = document.getElementById('sec');
+      let seconds = 3;
+      const timer = setInterval(() => {
+        seconds--;
+        if (seconds <= 0) {
+          clearInterval(timer);
+        }
+        span.textContent = seconds;
+      }, 1000);
+    </script>
   </body>
 </html>
