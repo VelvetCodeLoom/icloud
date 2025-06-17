@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4692个图标，导出时间：2025-06-16 09:46:11",
+  "description": "共4668个图标，导出时间：2025-06-17 09:43:10",
   "icons": [
     {
       "name": "lige",
@@ -1111,10 +1111,6 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meta(1).png"
     },
     {
-      "name": "meta(3)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meta(3).png"
-    },
-    {
       "name": "github(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/github(1).png"
     },
@@ -1525,98 +1521,6 @@
     {
       "name": "zhuanyi(4)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhuanyi(4).png"
-    },
-    {
-      "name": "shu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shu.png"
-    },
-    {
-      "name": "niu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/niu.png"
-    },
-    {
-      "name": "hu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/hu.png"
-    },
-    {
-      "name": "tu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tu.png"
-    },
-    {
-      "name": "long",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/long.png"
-    },
-    {
-      "name": "she",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/she.png"
-    },
-    {
-      "name": "ma",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ma.png"
-    },
-    {
-      "name": "yang",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yang.png"
-    },
-    {
-      "name": "hou",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/hou.png"
-    },
-    {
-      "name": "ji",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ji.png"
-    },
-    {
-      "name": "gou",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/gou.png"
-    },
-    {
-      "name": "zhu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhu.png"
-    },
-    {
-      "name": "tianxie",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tianxie.png"
-    },
-    {
-      "name": "shuangzi",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shuangzi.png"
-    },
-    {
-      "name": "tiancheng",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tiancheng.png"
-    },
-    {
-      "name": "juxie",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/juxie.png"
-    },
-    {
-      "name": "shuiping",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shuiping.png"
-    },
-    {
-      "name": "shuangyu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shuangyu.png"
-    },
-    {
-      "name": "shizi",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shizi.png"
-    },
-    {
-      "name": "chunv",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/chunv.png"
-    },
-    {
-      "name": "sheshou",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/sheshou.png"
-    },
-    {
-      "name": "jinniu",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jinniu.png"
-    },
-    {
-      "name": "baiyang",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/baiyang.png"
     },
     {
       "name": "hxd-emby",
