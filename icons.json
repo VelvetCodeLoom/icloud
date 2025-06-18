@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4668个图标，导出时间：2025-06-17 09:43:10",
+  "description": "共4670个图标，导出时间：2025-06-18 09:42:10",
   "icons": [
     {
       "name": "lige",
@@ -2893,6 +2893,14 @@
     {
       "name": "yiyuanjichang",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yiyuanjichang.png"
+    },
+    {
+      "name": "iNetS",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/iNetS.png"
+    },
+    {
+      "name": "Edge-X",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Edge-X.png"
     },
     {
       "name": "王者荣耀国际服_120.png",
