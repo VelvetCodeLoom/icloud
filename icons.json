@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4670个图标，导出时间：2025-06-18 09:42:10",
+  "description": "共4673个图标，导出时间：2025-06-19 09:43:28",
   "icons": [
     {
       "name": "lige",
@@ -1521,6 +1521,18 @@
     {
       "name": "zhuanyi(4)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhuanyi(4).png"
+    },
+    {
+      "name": "NAS",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/NAS.png"
+    },
+    {
+      "name": "NAS(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/NAS(1).png"
+    },
+    {
+      "name": "NAS(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/NAS(2).png"
     },
     {
       "name": "hxd-emby",
