@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4673个图标，导出时间：2025-06-19 09:43:28",
+  "description": "共4677个图标，导出时间：2025-06-20 09:42:27",
   "icons": [
     {
       "name": "lige",
@@ -241,6 +241,18 @@
     {
       "name": "Malaysia",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Malaysia.png"
+    },
+    {
+      "name": "Russia",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Russia.png"
+    },
+    {
+      "name": "Russia(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Russia(1).png"
+    },
+    {
+      "name": "Russia(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Russia(2).png"
     },
     {
       "name": "Loon",
@@ -2197,6 +2209,10 @@
     {
       "name": "Liminal-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Liminal-emby.png"
+    },
+    {
+      "name": "yuebing-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yuebing-emby.png"
     },
     {
       "name": "atomlantis",
