@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4677个图标，导出时间：2025-06-22 09:50:35",
+  "description": "共4683个图标，导出时间：2025-06-23 09:49:14",
   "icons": [
     {
       "name": "lige",
@@ -253,6 +253,18 @@
     {
       "name": "Russia(2)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Russia(2).png"
+    },
+    {
+      "name": "EuropeanUnion",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/EuropeanUnion.png"
+    },
+    {
+      "name": "EuropeanUnion(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/EuropeanUnion(1).png"
+    },
+    {
+      "name": "EuropeanUnion(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/EuropeanUnion(2).png"
     },
     {
       "name": "Loon",
@@ -2215,6 +2227,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yuebing-emby.png"
     },
     {
+      "name": "blackcatfilm-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/blackcatfilm-emby.png"
+    },
+    {
       "name": "atomlantis",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/atomlantis.png"
     },
@@ -2929,6 +2945,14 @@
     {
       "name": "Edge-X",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Edge-X.png"
+    },
+    {
+      "name": "cloudfisher",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/cloudfisher.png"
+    },
+    {
+      "name": "cloudfisher(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/cloudfisher(1).png"
     },
     {
       "name": "王者荣耀国际服_120.png",
