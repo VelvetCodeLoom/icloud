@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4683个图标，导出时间：2025-06-24 09:43:38",
+  "description": "共4689个图标，导出时间：2025-06-25 09:44:03",
   "icons": [
     {
       "name": "lige",
@@ -517,6 +517,18 @@
     {
       "name": "speedtest",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/speedtest.png"
+    },
+    {
+      "name": "speedtest(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/speedtest(1).png"
+    },
+    {
+      "name": "speedtest(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/speedtest(2).png"
+    },
+    {
+      "name": "speedtest(3)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/speedtest(3).png"
     },
     {
       "name": "microsoft",
@@ -2175,6 +2187,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/1111-emby.png"
     },
     {
+      "name": "1111(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/1111(1)-emby.png"
+    },
+    {
       "name": "FaintRay-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/FaintRay-emby.png"
     },
@@ -2229,6 +2245,14 @@
     {
       "name": "blackcatfilm-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/blackcatfilm-emby.png"
+    },
+    {
+      "name": "tufeide-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tufeide-emby.png"
+    },
+    {
+      "name": "Nqm-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Nqm-emby.png"
     },
     {
       "name": "atomlantis",
