@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4689个图标，导出时间：2025-06-25 09:44:03",
+  "description": "共4691个图标，导出时间：2025-06-26 09:42:48",
   "icons": [
     {
       "name": "lige",
@@ -2253,6 +2253,14 @@
     {
       "name": "Nqm-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Nqm-emby.png"
+    },
+    {
+      "name": "fatbeef-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/fatbeef-emby.png"
+    },
+    {
+      "name": "gyfmsky-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/gyfmsky-emby.png"
     },
     {
       "name": "atomlantis",
