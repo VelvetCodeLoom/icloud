@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4731个图标，导出时间：2025-07-03 09:43:47",
+  "description": "共4734个图标，导出时间：2025-07-04 09:43:21",
   "icons": [
     {
       "name": "lige",
@@ -725,6 +725,14 @@
     {
       "name": "senplayer",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/senplayer.png"
+    },
+    {
+      "name": "forward",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/forward.png"
+    },
+    {
+      "name": "forward(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/forward(1).png"
     },
     {
       "name": "reflix",
@@ -1735,10 +1743,6 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jellyfish(1)-emby.png"
     },
     {
-      "name": "Zox-emby",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Zox-emby.png"
-    },
-    {
       "name": "jianshouqing-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jianshouqing-emby.png"
     },
@@ -2133,6 +2137,14 @@
     {
       "name": "zox-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zox-emby.png"
+    },
+    {
+      "name": "zox(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zox(1)-emby.png"
+    },
+    {
+      "name": "zox(2)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zox(2)-emby.png"
     },
     {
       "name": "UHD",
