@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4734个图标，导出时间：2025-07-04 09:43:21",
+  "description": "共4735个图标，导出时间：2025-07-05 09:39:42",
   "icons": [
     {
       "name": "lige",
@@ -3021,6 +3021,10 @@
     {
       "name": "jiux",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jiux.png"
+    },
+    {
+      "name": "lzymtzpd",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/lzymtzpd.png"
     },
     {
       "name": "王者荣耀国际服_120.png",
