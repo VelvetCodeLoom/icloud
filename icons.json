@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4735个图标，导出时间：2025-07-05 09:39:42",
+  "description": "共4738个图标，导出时间：2025-07-06 09:51:20",
   "icons": [
     {
       "name": "lige",
@@ -297,6 +297,10 @@
     {
       "name": "Loon(7)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Loon(7).png"
+    },
+    {
+      "name": "Loon(8)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Loon(8).png"
     },
     {
       "name": "Surge(1)",
@@ -2973,6 +2977,14 @@
     {
       "name": "ViKinglinks",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ViKinglinks.png"
+    },
+    {
+      "name": "Vikinglinks(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Vikinglinks(1).png"
+    },
+    {
+      "name": "Vikinglinks(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Vikinglinks(1).png"
     },
     {
       "name": "yawang",
