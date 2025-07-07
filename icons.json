@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4738个图标，导出时间：2025-07-06 09:51:20",
+  "description": "共4741个图标，导出时间：2025-07-07 09:49:10",
   "icons": [
     {
       "name": "lige",
@@ -849,6 +849,14 @@
     {
       "name": "yiqidazhong",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yiqidazhong.png"
+    },
+    {
+      "name": "xiechenglvxing",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiechenglvxing.png"
+    },
+    {
+      "name": "xiechenglvxing(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiechenglvxing(1).png"
     },
     {
       "name": "tiktok",
@@ -2983,8 +2991,8 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Vikinglinks(1).png"
     },
     {
-      "name": "Vikinglinks(1)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Vikinglinks(1).png"
+      "name": "Vikinglinks(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Vikinglinks(2).png"
     },
     {
       "name": "yawang",
@@ -11785,6 +11793,10 @@
     {
       "name": "oracle",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/oracle.png"
+    },
+    {
+      "name": "paipai 拍拍严选",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/paipai.png"
     },
     {
       "name": "PetronasTowers",
