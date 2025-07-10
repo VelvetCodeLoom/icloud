@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4744个图标，导出时间：2025-07-09 09:45:39",
+  "description": "共4747个图标，导出时间：2025-07-10 09:45:46",
   "icons": [
     {
       "name": "lige",
@@ -2315,6 +2315,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/youqibing-emby.png"
     },
     {
+      "name": "ac-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ac-emby.png"
+    },
+    {
       "name": "atomlantis",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/atomlantis.png"
     },
@@ -3057,6 +3061,14 @@
     {
       "name": "lzymtzpd",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/lzymtzpd.png"
+    },
+    {
+      "name": "ikuuu",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ikuuu.png"
+    },
+    {
+      "name": "linkcube",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/linkcube.png"
     },
     {
       "name": "王者荣耀国际服_120.png",
