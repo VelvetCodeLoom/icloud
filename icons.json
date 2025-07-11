@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4747个图标，导出时间：2025-07-10 09:45:46",
+  "description": "共4750个图标，导出时间：2025-07-11 09:47:06",
   "icons": [
     {
       "name": "lige",
@@ -1291,6 +1291,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pixiv(1).png"
     },
     {
+      "name": "pixiv(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pixiv(2).png"
+    },
+    {
       "name": "Perplexity",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Perplexity.png"
     },
@@ -1393,6 +1397,10 @@
     {
       "name": "exhentai",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/exhentai.png"
+    },
+    {
+      "name": "kakaotalk",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/kakaotalk.png"
     },
     {
       "name": "quanqiu",
@@ -2087,8 +2095,8 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/handou-emby.png"
     },
     {
-      "name": "ac-emby",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ac-emby.png"
+      "name": "aczn-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/aczn-emby.png"
     },
     {
       "name": "Kiku-emby",
@@ -2321,6 +2329,10 @@
     {
       "name": "atomlantis",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/atomlantis.png"
+    },
+    {
+      "name": "mesl",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mesl.png"
     },
     {
       "name": "mesl(2)",
