@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4751个图标，导出时间：2025-07-14 09:51:45",
+  "description": "共4754个图标，导出时间：2025-07-15 09:52:06",
   "icons": [
     {
       "name": "lige",
@@ -569,6 +569,10 @@
     {
       "name": "steam(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/steam(1).png"
+    },
+    {
+      "name": "EA",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/EA.png"
     },
     {
       "name": "dianxin",
@@ -2283,6 +2287,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Liminal-emby.png"
     },
     {
+      "name": "Liminal(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Liminal(1)-emby.png"
+    },
+    {
       "name": "yuebing-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yuebing-emby.png"
     },
@@ -2323,12 +2331,16 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/youqibing-emby.png"
     },
     {
-      "name": "ac-emby",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ac-emby.png"
-    },
-    {
       "name": "KFCV50-emby",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/KFCV50-emby.png"
+    },
+    {
+      "name": "rjf-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/rjf-emby.png"
+    },
+    {
+      "name": "rjf(1)-emby",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/rjf(1)-emby.png"
     },
     {
       "name": "atomlantis",
