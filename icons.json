@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4576个图标，导出时间：2025-07-18 09:50:48",
+  "description": "共4579个图标，导出时间：2025-07-19 09:45:31",
   "icons": [
     {
       "name": "lige",
@@ -1423,6 +1423,14 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/linkedin.png"
     },
     {
+      "name": "proxmox",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/proxmox.png"
+    },
+    {
+      "name": "Sharon",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Sharon.png"
+    },
+    {
       "name": "quanqiu",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/quanqiu.png"
     },
@@ -1629,6 +1637,10 @@
     {
       "name": "NAS(2)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/NAS(2).png"
+    },
+    {
+      "name": "jichang",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jichang.png"
     },
     {
       "name": "atomlantis",
