@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4579个图标，导出时间：2025-07-19 09:45:31",
+  "description": "共4580个图标，导出时间：2025-07-20 09:57:36",
   "icons": [
     {
       "name": "lige",
@@ -2397,6 +2397,10 @@
     {
       "name": "linkcube",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/linkcube.png"
+    },
+    {
+      "name": "liangxinyun",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/liangxinyun.png"
     },
     {
       "name": "王者荣耀国际服_120.png",
