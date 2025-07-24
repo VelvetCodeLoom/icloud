@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4580个图标，导出时间：2025-07-23 09:50:38",
+  "description": "共4582个图标，导出时间：2025-07-24 09:49:41",
   "icons": [
     {
       "name": "lige",
@@ -1431,6 +1431,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Sharon.png"
     },
     {
+      "name": "mexc",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mexc.png"
+    },
+    {
       "name": "quanqiu",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/quanqiu.png"
     },
@@ -1921,6 +1925,10 @@
     {
       "name": "AladdinLottery",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AladdinLottery.png"
+    },
+    {
+      "name": "AladdinLottery(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AladdinLottery(1).png"
     },
     {
       "name": "tesla",
