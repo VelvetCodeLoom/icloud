@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4583个图标，导出时间：2025-07-27 09:58:24",
+  "description": "共4585个图标，导出时间：2025-07-28 09:56:17",
   "icons": [
     {
       "name": "lige",
@@ -415,8 +415,16 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/alicloud.png"
     },
     {
+      "name": "alidrive",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/alidrive.png"
+    },
+    {
       "name": "baidunetdisk",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/baidunetdisk.png"
+    },
+    {
+      "name": "baidunetdisk(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/baidunetdisk(1).png"
     },
     {
       "name": "alist",
@@ -709,10 +717,6 @@
     {
       "name": "pinduoduo",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pinduoduo.png"
-    },
-    {
-      "name": "alidrive",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/alidrive.png"
     },
     {
       "name": "alipay",
@@ -1437,6 +1441,10 @@
     {
       "name": "mexc",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mexc.png"
+    },
+    {
+      "name": "zoomearth",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zoomearth.png"
     },
     {
       "name": "quanqiu",
