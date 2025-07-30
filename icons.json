@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4585个图标，导出时间：2025-07-29 10:02:20",
+  "description": "共4585个图标，导出时间：2025-07-30 09:52:23",
   "icons": [
     {
       "name": "lige",
@@ -899,28 +899,24 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tiktok((2).png"
     },
     {
-      "name": "chatgpt",
+      "name": "chatgpt(balck)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/chatgpt(balck).png"
+    },
+    {
+      "name": "chatgpt(white)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/chatgpt(white).png"
+    },
+    {
+      "name": "chatgpt(white1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/chatgpt(white1).png"
+    },
+    {
+      "name": "ChatGPT-green",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ChatGPT-green.png"
-    },
-    {
-      "name": "ChatGPT",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ChatGPT.png"
-    },
-    {
-      "name": "ChatGPT(1)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ChatGPT(1).png"
-    },
-    {
-      "name": "ChatGPT(2)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ChatGPT(2).png"
     },
     {
       "name": "chatgpt4.0",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/chatgpt4.0.png"
-    },
-    {
-      "name": "Chatgpt(3)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Chatgpt(3).png"
     },
     {
       "name": "claude",
@@ -11673,6 +11669,10 @@
     {
       "name": "wireguard",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wireguard.png"
+    },
+    {
+      "name": "歪麦霸王餐",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wmbwc.png"
     },
     {
       "name": "wangzherongyao",
