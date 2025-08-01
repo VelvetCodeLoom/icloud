@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4585个图标，导出时间：2025-07-31 09:52:02",
+  "description": "共4586个图标，导出时间：2025-08-01 10:02:10",
   "icons": [
     {
       "name": "lige",
@@ -2429,6 +2429,10 @@
     {
       "name": "原神_120",
       "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/原神_120.png"
+    },
+    {
+      "name": "figma",
+      "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/figma.png"
     },
     {
       "name": "01.png",
