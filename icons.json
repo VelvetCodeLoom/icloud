@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4589个图标，导出时间：2025-08-03 10:00:00",
+  "description": "共4594个图标，导出时间：2025-08-04 10:00:15",
   "icons": [
     {
       "name": "lige",
@@ -1015,8 +1015,28 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram(1).png"
     },
     {
+      "name": "telegram(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram(2).png"
+    },
+    {
+      "name": "telegram(3)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram(3).png"
+    },
+    {
+      "name": "telegram(4)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram(4).png"
+    },
+    {
       "name": "telegram(blue1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram(blue1).png"
+    },
+    {
+      "name": "Telegrampremium",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Telegrampremium.png"
+    },
+    {
+      "name": "Telegrampremium(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Telegrampremium(1).png"
     },
     {
       "name": "spotify",
@@ -1195,10 +1215,6 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meta.png"
     },
     {
-      "name": "meta(1)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/meta(1).png"
-    },
-    {
       "name": "github(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/github(1).png"
     },
@@ -1261,10 +1277,6 @@
     {
       "name": "Threads",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Threads.png"
-    },
-    {
-      "name": "Telegrampremium",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Telegrampremium.png"
     },
     {
       "name": "BlueskySocial",
@@ -2429,6 +2441,14 @@
     {
       "name": "akkcloud",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/akkcloud.png"
+    },
+    {
+      "name": "xiaoyi",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaoyi.png"
+    },
+    {
+      "name": "xiaoyi(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaoyi(1).png"
     },
     {
       "name": "王者荣耀国际服_120.png",
