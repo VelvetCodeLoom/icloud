@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4597个图标，导出时间：2025-08-11 09:53:16",
+  "description": "共4598个图标，导出时间：2025-08-12 09:42:22",
   "icons": [
     {
       "name": "lige",
@@ -1173,6 +1173,10 @@
     {
       "name": "okx(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/okx(1).png"
+    },
+    {
+      "name": "gateio",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/gateio.png"
     },
     {
       "name": "twitch",
