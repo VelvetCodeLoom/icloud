@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4598个图标，导出时间：2025-08-12 09:42:22",
+  "description": "共4600个图标，导出时间：2025-08-13 09:44:00",
   "icons": [
     {
       "name": "lige",
@@ -897,6 +897,14 @@
     {
       "name": "zhangshangshenghuo(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhangshangshenghuo(1).png"
+    },
+    {
+      "name": "fengxingshipin",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/fengxingshipin.png"
+    },
+    {
+      "name": "DJmusic",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DJmusic.png"
     },
     {
       "name": "tiktok",
