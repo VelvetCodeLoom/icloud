@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4600个图标，导出时间：2025-08-15 09:45:03",
+  "description": "共4617个图标，导出时间：2025-08-16 09:39:51",
   "icons": [
     {
       "name": "lige",
@@ -907,6 +907,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DJmusic.png"
     },
     {
+      "name": "leshishipin",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/leshishipin.png"
+    },
+    {
       "name": "tiktok",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tiktok.png"
     },
@@ -1053,6 +1057,70 @@
     {
       "name": "Telegrampremium",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Telegrampremium.png"
+    },
+    {
+      "name": "Swiftgram(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(1).png"
+    },
+    {
+      "name": "Swiftgram(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(2).png"
+    },
+    {
+      "name": "Swiftgram(3)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(3).png"
+    },
+    {
+      "name": "Swiftgram(4)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(4).png"
+    },
+    {
+      "name": "Swiftgram(5)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(5).png"
+    },
+    {
+      "name": "Swiftgram(6)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(6).png"
+    },
+    {
+      "name": "Swiftgram(7)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(7).png"
+    },
+    {
+      "name": "Swiftgram(8)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(8).png"
+    },
+    {
+      "name": "Swiftgram(9)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(9).png"
+    },
+    {
+      "name": "Swiftgram(10)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(10).png"
+    },
+    {
+      "name": "Swiftgram(11)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(11).png"
+    },
+    {
+      "name": "Swiftgram(12)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(12).png"
+    },
+    {
+      "name": "Swiftgram(13)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(13).png"
+    },
+    {
+      "name": "Swiftgram(14)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(14).png"
+    },
+    {
+      "name": "Swiftgram(15)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(15).png"
+    },
+    {
+      "name": "Swiftgram(16)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(16).png"
     },
     {
       "name": "Telegrampremium(1)",
