@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4619个图标，导出时间：2025-08-22 09:37:22",
+  "description": "共4620个图标，导出时间：2025-08-23 09:26:46",
   "icons": [
     {
       "name": "lige",
@@ -973,6 +973,10 @@
     {
       "name": "grok",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/grok.png"
+    },
+    {
+      "name": "cursor",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/cursor.png"
     },
     {
       "name": "onedrive",
