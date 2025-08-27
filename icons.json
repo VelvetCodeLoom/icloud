@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4620个图标，导出时间：2025-08-26 09:38:09",
+  "description": "共4623个图标，导出时间：2025-08-27 09:27:20",
   "icons": [
     {
       "name": "lige",
@@ -919,6 +919,14 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/feiniufnOS(1).png"
     },
     {
+      "name": "wuyouxing",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/wuyouxing.png"
+    },
+    {
+      "name": "zhaoshangyinhang",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhaoshangyinhang.png"
+    },
+    {
       "name": "tiktok",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tiktok.png"
     },
@@ -1133,6 +1141,10 @@
     {
       "name": "Swiftgram(16)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Swiftgram(16).png"
+    },
+    {
+      "name": "Turrit",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Turrit.png"
     },
     {
       "name": "Telegrampremium(1)",
