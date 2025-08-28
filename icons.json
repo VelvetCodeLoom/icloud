@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4623个图标，导出时间：2025-08-27 09:27:20",
+  "description": "共4627个图标，导出时间：2025-08-28 09:26:37",
   "icons": [
     {
       "name": "lige",
@@ -583,6 +583,14 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/kugou.png"
     },
     {
+      "name": "bodianyinyue",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bodianyinyue.png"
+    },
+    {
+      "name": "bodianyinyue(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bodianyinyue(1).png"
+    },
+    {
       "name": "steam",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/steam.png"
     },
@@ -677,6 +685,14 @@
     {
       "name": "mangguotv(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mangguotv(1).png"
+    },
+    {
+      "name": "youkushipin",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/youkushipin.png"
+    },
+    {
+      "name": "youkushipin(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/youkushipin(1).png"
     },
     {
       "name": "baidutieba",
