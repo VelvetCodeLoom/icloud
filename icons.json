@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4627个图标，导出时间：2025-08-30 09:22:46",
+  "description": "共4631个图标，导出时间：2025-08-31 09:39:12",
   "icons": [
     {
       "name": "lige",
@@ -569,6 +569,14 @@
     {
       "name": "teams",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/teams.png"
+    },
+    {
+      "name": "outlook",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/outlook.png"
+    },
+    {
+      "name": "outlook(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/outlook(1).png"
     },
     {
       "name": "wyy",
@@ -2581,6 +2589,14 @@
     {
       "name": "xiaoyi(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaoyi(1).png"
+    },
+    {
+      "name": "DoriyaNetwork",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DoriyaNetwork.png"
+    },
+    {
+      "name": "DoriyaNetwork(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DoriyaNetwork(1).png"
     },
     {
       "name": "王者荣耀国际服_120.png",
