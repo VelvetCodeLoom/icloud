@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4631个图标，导出时间：2025-08-31 09:39:12",
+  "description": "共4632个图标，导出时间：2025-09-01 09:48:33",
   "icons": [
     {
       "name": "lige",
@@ -1805,6 +1805,10 @@
     {
       "name": "NAS(2)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/NAS(2).png"
+    },
+    {
+      "name": "qunhuiguanjia",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/qunhuiguanjia.png"
     },
     {
       "name": "jichang",
