@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4655个图标，导出时间：2025-09-10 09:23:35",
+  "description": "共4659个图标，导出时间：2025-09-11 09:25:45",
   "icons": [
     {
       "name": "lige",
@@ -1025,6 +1025,18 @@
     {
       "name": "zhangshanglol",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/zhangshanglol.png"
+    },
+    {
+      "name": "wifiwannengyaoshi",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/wifiwannengyaoshi.png"
+    },
+    {
+      "name": "wanmeishijiedianjing",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/wanmeishijiedianjing.png"
+    },
+    {
+      "name": "pukoudaixiaoyuan",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/pukoudaixiaoyuan.png"
     },
     {
       "name": "tiktok",
@@ -2693,6 +2705,10 @@
     {
       "name": "superbiu",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/superbiu.png"
+    },
+    {
+      "name": "yifenjichang",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yifenjichang.png"
     },
     {
       "name": "王者荣耀国际服_120.png",
