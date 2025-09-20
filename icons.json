@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4661个图标，导出时间：2025-09-19 09:25:40",
+  "description": "共4662个图标，导出时间：2025-09-20 09:21:49",
   "icons": [
     {
       "name": "lige",
@@ -493,6 +493,10 @@
     {
       "name": "bilibili(4)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bilibili(4).png"
+    },
+    {
+      "name": "acfun",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/acfun.png"
     },
     {
       "name": "apple",
