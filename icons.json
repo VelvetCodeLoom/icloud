@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4660个图标，导出时间：2025-09-29 09:27:00",
+  "description": "共4661个图标，导出时间：2025-09-30 09:25:17",
   "icons": [
     {
       "name": "lige",
@@ -2589,6 +2589,10 @@
     {
       "name": "vv",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/vv.png"
+    },
+    {
+      "name": "v2paw",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/v2paw.png"
     },
     {
       "name": "wanda",
