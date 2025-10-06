@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4659个图标，导出时间：2025-10-05 09:39:26",
+  "description": "共4664个图标，导出时间：2025-10-06 09:25:46",
   "icons": [
     {
       "name": "lige",
@@ -1379,6 +1379,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/netflix(red).png"
     },
     {
+      "name": "N26",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/N26.png"
+    },
+    {
       "name": "Notion",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Notion.png"
     },
@@ -1935,6 +1939,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/aifun.png"
     },
     {
+      "name": "akkcloud",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/akkcloud.png"
+    },
+    {
       "name": "AladdinLottery",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AladdinLottery.png"
     },
@@ -1977,6 +1985,10 @@
     {
       "name": "bishi",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bishi.png"
+    },
+    {
+      "name": "bitznet",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bitznet.png"
     },
     {
       "name": "BKCLOUD",
@@ -2375,6 +2387,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ouo.png"
     },
     {
+      "name": "OverWall",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/OverWall.png"
+    },
+    {
       "name": "peiqian",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/peiqian.png"
     },
@@ -2673,6 +2689,10 @@
     {
       "name": "yiyuanjichang",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yiyuanjichang.png"
+    },
+    {
+      "name": "yiyunti",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/yiyunti.png"
     },
     {
       "name": "ykkcloud",
