@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4664个图标，导出时间：2025-10-06 09:25:46",
+  "description": "共4670个图标，导出时间：2025-10-07 09:24:23",
   "icons": [
     {
       "name": "lige",
@@ -12935,8 +12935,20 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ShenNong.png"
     },
     {
-      "name": "Shortcuts",
+      "name": "Shortcuts 快捷指令",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Shortcuts.png"
+    },
+    {
+      "name": "Shortcuts 快捷指令",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Shortcuts_01.png"
+    },
+    {
+      "name": "Shortcuts 快捷指令",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Shortcuts_02.png"
+    },
+    {
+      "name": "Shortcuts 快捷指令",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Shortcuts_03.png"
     },
     {
       "name": "ShuiMu",
@@ -13183,6 +13195,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_02.png"
     },
     {
+      "name": "TestFlight_02",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_03.png"
+    },
+    {
       "name": "TheFederalAssembly",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TheFederalAssembly.png"
     },
@@ -13203,36 +13219,44 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Thunder.png"
     },
     {
-      "name": "TikTok_01",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TikTok_01.png"
     },
     {
-      "name": "TikTok_02",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TikTok_02.png"
     },
     {
-      "name": "TikTok_03",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TikTok_03.png"
     },
     {
-      "name": "Tiktok_04",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_04.png"
     },
     {
-      "name": "Tiktok_05",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_05.png"
     },
     {
-      "name": "Tiktok_06",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_06.png"
     },
     {
-      "name": "Tiktok_07",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_07.png"
     },
     {
-      "name": "Tiktok_08",
+      "name": "TikTok 抖音",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_08.png"
+    },
+    {
+      "name": "TikTok 抖音",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_09.png"
+    },
+    {
+      "name": "TikTok 抖音",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Tiktok_10.png"
     },
     {
       "name": "tinder",
