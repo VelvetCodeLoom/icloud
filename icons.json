@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4670个图标，导出时间：2025-10-07 09:24:23",
+  "description": "共4672个图标，导出时间：2025-10-08 09:24:39",
   "icons": [
     {
       "name": "lige",
@@ -2549,6 +2549,10 @@
     {
       "name": "TAG",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/TAG.png"
+    },
+    {
+      "name": "TAG(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/TAG(1).png"
     },
     {
       "name": "taoqitu",
@@ -13187,15 +13191,19 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Terminus.png"
     },
     {
-      "name": "TestFlight_01",
+      "name": "TestFlight",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_00.png"
+    },
+    {
+      "name": "TestFlight",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_01.png"
     },
     {
-      "name": "TestFlight_02",
+      "name": "TestFlight",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_02.png"
     },
     {
-      "name": "TestFlight_02",
+      "name": "TestFlight",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_03.png"
     },
     {
