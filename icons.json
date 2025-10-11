@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4672个图标，导出时间：2025-10-10 09:25:36",
+  "description": "共4682个图标，导出时间：2025-10-11 09:22:06",
   "icons": [
     {
       "name": "lige",
@@ -571,6 +571,14 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/clouddrive2.png"
     },
     {
+      "name": "CSsaomiaoquannengwang",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/CSsaomiaoquannengwang.png"
+    },
+    {
+      "name": "dazhongpingqiu",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dazhongpingqiu.png"
+    },
+    {
       "name": "deepseek",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/deepseek.png"
     },
@@ -589,6 +597,10 @@
     {
       "name": "DJmusic",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DJmusic.png"
+    },
+    {
+      "name": "dongqiudi",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dongqiudi.png"
     },
     {
       "name": "douyuzhibo",
@@ -685,6 +697,10 @@
     {
       "name": "keep",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/keep.png"
+    },
+    {
+      "name": "KFC",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/KFC.png"
     },
     {
       "name": "kuancoolapk",
@@ -2091,6 +2107,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/egg(1).png"
     },
     {
+      "name": "ENET",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/ENET.png"
+    },
+    {
       "name": "epub",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/epub.png"
     },
@@ -2147,12 +2167,20 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Film(1).png"
     },
     {
+      "name": "FishPort",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/FishPort.png"
+    },
+    {
       "name": "FlowerCloud",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/FlowerCloud.png"
     },
     {
       "name": "flowcast666",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/flowcast666.png"
+    },
+    {
+      "name": "Flyint",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Flyint.png"
     },
     {
       "name": "hanbingyun",
@@ -2403,6 +2431,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/qingfengyun.png"
     },
     {
+      "name": "qingyunti",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/qingyunti.png"
+    },
+    {
       "name": "RecMata",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/RecMata.png"
     },
@@ -2441,6 +2473,10 @@
     {
       "name": "Sausage",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Sausage.png"
+    },
+    {
+      "name": "SaySS",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/SaySS.png"
     },
     {
       "name": "sensortower",
@@ -2661,6 +2697,10 @@
     {
       "name": "xiaoyi(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaoyi(1).png"
+    },
+    {
+      "name": "xueshan",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xueshan.png"
     },
     {
       "name": "yawang",
