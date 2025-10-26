@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4696个图标，导出时间：2025-10-25 09:26:01",
+  "description": "共4703个图标，导出时间：2025-10-26 09:41:03",
   "icons": [
     {
       "name": "lige",
@@ -707,6 +707,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jinritoutiao.png"
     },
     {
+      "name": "Jinrishuiyinxiangji",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Jinrishuiyinxiangji.png"
+    },
+    {
       "name": "jiuhaochuxing",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jiuhaochuxing.png"
     },
@@ -873,6 +877,10 @@
     {
       "name": "shengshenghuozhu",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shengshenghuozhu.png"
+    },
+    {
+      "name": "shihuo",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shihuo.png"
     },
     {
       "name": "shunfeng",
@@ -1151,6 +1159,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AdobeXD.png"
     },
     {
+      "name": "amazon",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/amazon.png"
+    },
+    {
       "name": "bahamute",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bahamute.png"
     },
@@ -1245,6 +1257,10 @@
     {
       "name": "cursor",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/cursor.png"
+    },
+    {
+      "name": "DCard",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/DCard.png"
     },
     {
       "name": "discord",
@@ -1733,6 +1749,10 @@
     {
       "name": "wikipedia",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/wikipedia.png"
+    },
+    {
+      "name": "xTerm256",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xTerm256.png"
     },
     {
       "name": "Youtube",
@@ -2275,6 +2295,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/JIASU.png"
     },
     {
+      "name": "jinmenyun",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jinmenyun.png"
+    },
+    {
       "name": "jiux",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/jiux.png"
     },
@@ -2533,6 +2557,10 @@
     {
       "name": "SevenXue(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/SevenXue(1).png"
+    },
+    {
+      "name": "shanlianVPN",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shanlianVPN.png"
     },
     {
       "name": "shenluo",
