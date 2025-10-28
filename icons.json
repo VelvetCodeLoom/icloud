@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4703个图标，导出时间：2025-10-27 09:44:41",
+  "description": "共4704个图标，导出时间：2025-10-28 09:27:16",
   "icons": [
     {
       "name": "lige",
@@ -765,6 +765,10 @@
     {
       "name": "mangguotv(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mangguotv(1).png"
+    },
+    {
+      "name": "mcdonalds",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/mcdonalds.png"
     },
     {
       "name": "meituan",
