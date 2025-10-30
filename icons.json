@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4704个图标，导出时间：2025-10-29 09:41:26",
+  "description": "共4705个图标，导出时间：2025-10-30 09:41:03",
   "icons": [
     {
       "name": "lige",
@@ -2641,6 +2641,10 @@
     {
       "name": "superbiu",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/superbiu.png"
+    },
+    {
+      "name": "superbiu(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/superbiu(1).png"
     },
     {
       "name": "suya",
