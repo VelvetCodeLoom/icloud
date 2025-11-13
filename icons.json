@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4707个图标，导出时间：2025-11-12 09:39:43",
+  "description": "共4708个图标，导出时间：2025-11-13 09:40:41",
   "icons": [
     {
       "name": "lige",
@@ -881,6 +881,10 @@
     {
       "name": "senplayer",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/senplayer.png"
+    },
+    {
+      "name": "senplayer(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/senplayer(1).png"
     },
     {
       "name": "shengshenghuozhu",
