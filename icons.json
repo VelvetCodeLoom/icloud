@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4708个图标，导出时间：2025-11-15 09:36:14",
+  "description": "共4714个图标，导出时间：2025-11-16 09:44:47",
   "icons": [
     {
       "name": "lige",
@@ -651,6 +651,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/fileball.png"
     },
     {
+      "name": "filmix",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/filmix.png"
+    },
+    {
       "name": "forward",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/forward.png"
     },
@@ -761,6 +765,10 @@
     {
       "name": "liantong(0)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/liantong(0).png"
+    },
+    {
+      "name": "lishinianlun",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/lishinianlun.png"
     },
     {
       "name": "mangguotv",
@@ -1655,6 +1663,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/talkatone.png"
     },
     {
+      "name": "tailscale",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tailscale.png"
+    },
+    {
       "name": "telegram",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/telegram.png"
     },
@@ -1741,6 +1753,10 @@
     {
       "name": "twitter(3)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/twitter(3).png"
+    },
+    {
+      "name": "USDT",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/USDT.png"
     },
     {
       "name": "vsco",
@@ -2051,6 +2067,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AmyTelecom.png"
     },
     {
+      "name": "anyland",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/anyland.png"
+    },
+    {
       "name": "AnrunNetwork",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/AnrunNetwork.png"
     },
@@ -2157,6 +2177,10 @@
     {
       "name": "Drunk",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Drunk.png"
+    },
+    {
+      "name": "dual",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/dual.png"
     },
     {
       "name": "duck",
