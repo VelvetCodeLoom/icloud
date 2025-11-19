@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4714个图标，导出时间：2025-11-18 09:39:16",
+  "description": "共4717个图标，导出时间：2025-11-19 09:39:36",
   "icons": [
     {
       "name": "lige",
@@ -65,6 +65,10 @@
     {
       "name": "FederalRepublicofNigeria(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/FederalRepublicofNigeria(1).png"
+    },
+    {
+      "name": "FederalRepublicofNigeria(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/FederalRepublicofNigeria(2).png"
     },
     {
       "name": "Germany",
@@ -141,6 +145,10 @@
     {
       "name": "Macao(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Macao(1).png"
+    },
+    {
+      "name": "Macao(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Macao(2).png"
     },
     {
       "name": "Malaysia",
@@ -2205,6 +2213,10 @@
     {
       "name": "egg(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/egg(1).png"
+    },
+    {
+      "name": "EIX",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/EIX.png"
     },
     {
       "name": "ENET",
