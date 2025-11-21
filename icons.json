@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4717个图标，导出时间：2025-11-20 09:38:16",
+  "description": "共4721个图标，导出时间：2025-11-21 09:38:58",
   "icons": [
     {
       "name": "lige",
@@ -1315,6 +1315,14 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/disney(blue).png"
     },
     {
+      "name": "disney",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/disney.png"
+    },
+    {
+      "name": "disney(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/disney(1).png"
+    },
+    {
       "name": "Drafts",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Drafts.png"
     },
@@ -1415,6 +1423,26 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/HBO.png"
     },
     {
+      "name": "HBOmax",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/HBOmax.png"
+    },
+    {
+      "name": "HBOmax(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/HBOmax(1).png"
+    },
+    {
+      "name": "max",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max.png"
+    },
+    {
+      "name": "max(1)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max(1).png"
+    },
+    {
+      "name": "max(2)",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max(2).png"
+    },
+    {
       "name": "instagram",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/instagram.png"
     },
@@ -1437,18 +1465,6 @@
     {
       "name": "linkedin",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/linkedin.png"
-    },
-    {
-      "name": "max",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max.png"
-    },
-    {
-      "name": "max(1)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max(1).png"
-    },
-    {
-      "name": "max(2)",
-      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/max(2).png"
     },
     {
       "name": "mega",
