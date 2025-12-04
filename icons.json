@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4721个图标，导出时间：2025-12-03 09:42:11",
+  "description": "共4722个图标，导出时间：2025-12-04 09:43:12",
   "icons": [
     {
       "name": "lige",
@@ -11975,8 +11975,12 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Gcp.png"
     },
     {
-      "name": "GfwEmby",
-      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/GfwEmby.png"
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Gemini_01.png"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Gemini_02.png"
     },
     {
       "name": "GiffGaff",
