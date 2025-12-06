@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4722个图标，导出时间：2025-12-05 09:43:25",
+  "description": "共4724个图标，导出时间：2025-12-06 09:37:37",
   "icons": [
     {
       "name": "lige",
@@ -1383,6 +1383,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/github(1).png"
     },
     {
+      "name": "Gnosis",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/Gnosis.png"
+    },
+    {
       "name": "google",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/google.png"
     },
@@ -1605,6 +1609,10 @@
     {
       "name": "spotify(green)(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/spotify(green)(1).png"
+    },
+    {
+      "name": "stripe",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/stripe.png"
     },
     {
       "name": "sub",
