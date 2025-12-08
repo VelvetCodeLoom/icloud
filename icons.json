@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4724个图标，导出时间：2025-12-07 09:51:08",
+  "description": "共4727个图标，导出时间：2025-12-08 09:44:05",
   "icons": [
     {
       "name": "lige",
@@ -1063,12 +1063,20 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaohuanRodelPlayer.png"
     },
     {
+      "name": "xiaoxiongyouhao",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiaoxiongyouhao.png"
+    },
+    {
       "name": "xiechenglvxing",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiechenglvxing.png"
     },
     {
       "name": "xiechenglvxing(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/xiechenglvxing(1).png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/ximalaya.png"
     },
     {
       "name": "yidong",
@@ -1421,6 +1429,10 @@
     {
       "name": "grok",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/grok.png"
+    },
+    {
+      "name": "himalaya",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/himalaya.png"
     },
     {
       "name": "HBO",
