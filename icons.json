@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4727个图标，导出时间：2025-12-11 09:46:03",
+  "description": "共4731个图标，导出时间：2025-12-12 09:45:26",
   "icons": [
     {
       "name": "lige",
@@ -433,6 +433,10 @@
     {
       "name": "123",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/123.png"
+    },
+    {
+      "name": "12123",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/12123.png"
     },
     {
       "name": "189",
@@ -2579,6 +2583,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/peiqian.png"
     },
     {
+      "name": "pokemon",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/pokemon.png"
+    },
+    {
       "name": "PokerCloud",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/PokerCloud.png"
     },
@@ -2655,6 +2663,10 @@
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shenluo.png"
     },
     {
+      "name": "shenlongjichang",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/shenlongjichang.png"
+    },
+    {
       "name": "shouhou",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/shouhou.png"
     },
@@ -2701,6 +2713,10 @@
     {
       "name": "speedcatc(1)",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/speedcatc(1).png"
+    },
+    {
+      "name": "ssLinks",
+      "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/new/ssLinks.png"
     },
     {
       "name": "ssone",
