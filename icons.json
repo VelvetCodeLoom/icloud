@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4747个图标，导出时间：2026-01-12 09:54:29",
+  "description": "共4749个图标，导出时间：2026-01-13 09:46:21",
   "icons": [
     {
       "name": "lige",
@@ -12959,6 +12959,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png"
     },
     {
+      "name": "pinduoduo",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo_01.png"
+    },
+    {
       "name": "PinYun",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PinYun.png"
     },
@@ -13929,6 +13933,10 @@
     {
       "name": "xiaohongshu",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xiaohongshu.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xiaohongshu_01.png"
     },
     {
       "name": "xiaomi",
