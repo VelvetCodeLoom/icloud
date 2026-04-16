@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4750个图标，导出时间：2026-04-15 10:37:10",
+  "description": "共4751个图标，导出时间：2026-04-16 10:44:45",
   "icons": [
     {
       "name": "lige",
@@ -12965,6 +12965,10 @@
     {
       "name": "pinduoduo",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo_01.png"
+    },
+    {
+      "name": "PingMe",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PingMe.png"
     },
     {
       "name": "PinYun",
