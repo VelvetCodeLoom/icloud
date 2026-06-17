@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4752个图标，导出时间：2026-06-16 12:14:27",
+  "description": "共4753个图标，导出时间：2026-06-17 12:12:45",
   "icons": [
     {
       "name": "lige",
@@ -11917,6 +11917,10 @@
     {
       "name": "EDC",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/EDC.png"
+    },
+    {
+      "name": "Egern",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Egern_00.png"
     },
     {
       "name": "EiffelTower",
