@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4755个图标，导出时间：2026-07-01 11:58:34",
+  "description": "共4756个图标，导出时间：2026-07-02 11:39:20",
   "icons": [
     {
       "name": "lige",
@@ -13991,12 +13991,16 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/XueQiu.png"
     },
     {
-      "name": "xxyx_01",
+      "name": "晓晓优选 xxyx",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx.png"
+    },
+    {
+      "name": "晓晓优选 xxyx_01",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx_01.png"
     },
     {
-      "name": "xxyx",
-      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx.png"
+      "name": "晓晓优选 xxyx_01",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/xxyx_02.png"
     },
     {
       "name": "YeJiChang",
