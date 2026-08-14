@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4757个图标，导出时间：2026-08-13 10:00:04",
+  "description": "共4758个图标，导出时间：2026-08-14 09:57:57",
   "icons": [
     {
       "name": "lige",
@@ -18877,6 +18877,10 @@
     {
       "name": "RenderingTermiusDark",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/RenderingTermiusDark.png"
+    },
+    {
+      "name": "ShadowMods",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowMods.png"
     },
     {
       "name": "Shadowrocket-First",
