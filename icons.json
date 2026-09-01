@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4758个图标，导出时间：2026-08-31 12:07:24",
+  "description": "共4759个图标，导出时间：2026-09-01 11:55:48",
   "icons": [
     {
       "name": "lige",
@@ -18881,6 +18881,10 @@
     {
       "name": "ShadowMods",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowMods.png"
+    },
+    {
+      "name": "ShadowStore",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore.png"
     },
     {
       "name": "Shadowrocket-First",
