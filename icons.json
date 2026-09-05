@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4759个图标，导出时间：2026-09-04 11:16:54",
+  "description": "共4763个图标，导出时间：2026-09-05 11:18:55",
   "icons": [
     {
       "name": "lige",
@@ -11943,6 +11943,10 @@
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ElevenPlus.png"
     },
     {
+      "name": "emby yuchu 予初",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/emby/yuchu.png"
+    },
+    {
       "name": "emby_副本",
       "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/emby_副本.png"
     },
@@ -18885,6 +18889,18 @@
     {
       "name": "ShadowStore",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore.png"
+    },
+    {
+      "name": "ShadowStore_01",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore_01.png"
+    },
+    {
+      "name": "ShadowStore_02",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore_02.png"
+    },
+    {
+      "name": "ShadowStore_03",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore_03.png"
     },
     {
       "name": "Shadowrocket-First",
