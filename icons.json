@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4763个图标，导出时间：2026-09-05 11:18:55",
+  "description": "共4763个图标，导出时间：2026-09-06 11:18:37",
   "icons": [
     {
       "name": "lige",
@@ -5648,10 +5648,6 @@
     },
     {
       "name": "QQ.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/QQ.png"
-    },
-    {
-      "name": "QQ.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/QQ.png"
     },
     {
@@ -5661,6 +5657,10 @@
     {
       "name": "QQ.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/QQ.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/QQ.png"
     },
     {
       "name": "Quantumult_X.png",
@@ -6736,19 +6736,19 @@
     },
     {
       "name": "aaex.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/aaex.png"
-    },
-    {
-      "name": "aaex.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/aaex.png"
-    },
-    {
-      "name": "aaex.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/aaex.png"
     },
     {
       "name": "aaex.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/aaex.png"
+    },
+    {
+      "name": "aaex.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/aaex.png"
+    },
+    {
+      "name": "aaex.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/aaex.png"
     },
     {
       "name": "abematv.png",
@@ -6980,11 +6980,11 @@
     },
     {
       "name": "bark.jpg",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/color/bark.jpg"
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/dark/bark.jpg"
     },
     {
       "name": "bark.jpg",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/dark/bark.jpg"
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/matrix/color/bark.jpg"
     },
     {
       "name": "bbc_iplayer.png",
@@ -7016,18 +7016,6 @@
     },
     {
       "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/bilibili.png"
-    },
-    {
-      "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/bilibili.png"
-    },
-    {
-      "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/bilibili.png"
-    },
-    {
-      "name": "bilibili.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/bilibili.png"
     },
     {
@@ -7037,6 +7025,18 @@
     {
       "name": "bilibili.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/bilibili.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/bilibili.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/bilibili.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/bilibili.png"
     },
     {
       "name": "bilibili_1.png",
@@ -7416,10 +7416,6 @@
     },
     {
       "name": "deezer.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/deezer.png"
-    },
-    {
-      "name": "deezer.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/deezer.png"
     },
     {
@@ -7429,6 +7425,10 @@
     {
       "name": "deezer.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/deezer.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/deezer.png"
     },
     {
       "name": "deezer_1.png",
@@ -8172,19 +8172,19 @@
     },
     {
       "name": "hitun.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hitun.png"
-    },
-    {
-      "name": "hitun.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/hitun.png"
-    },
-    {
-      "name": "hitun.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/hitun.png"
     },
     {
       "name": "hitun.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/hitun.png"
+    },
+    {
+      "name": "hitun.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/hitun.png"
+    },
+    {
+      "name": "hitun.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/hitun.png"
     },
     {
       "name": "hk.png",
@@ -8280,10 +8280,6 @@
     },
     {
       "name": "iQIYI.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/iQIYI.png"
-    },
-    {
-      "name": "iQIYI.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/iQIYI.png"
     },
     {
@@ -8293,6 +8289,10 @@
     {
       "name": "iQIYI.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/iQIYI.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/task/iQIYI.png"
     },
     {
       "name": "iQIYI_1.png",
@@ -9084,10 +9084,6 @@
     },
     {
       "name": "niconico.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/niconico.png"
-    },
-    {
-      "name": "niconico.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/niconico.png"
     },
     {
@@ -9097,6 +9093,10 @@
     {
       "name": "niconico.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/niconico.png"
+    },
+    {
+      "name": "niconico.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/niconico.png"
     },
     {
       "name": "niconico_1.png",
@@ -9640,15 +9640,15 @@
     },
     {
       "name": "rix.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/rix.png"
-    },
-    {
-      "name": "rix.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/rix.png"
     },
     {
       "name": "rix.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/rix.png"
+    },
+    {
+      "name": "rix.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/rix.png"
     },
     {
       "name": "rixcloud.png",
@@ -9916,15 +9916,15 @@
     },
     {
       "name": "ssrcloud.png",
-      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ssrcloud.png"
-    },
-    {
-      "name": "ssrcloud.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/ssrcloud.png"
     },
     {
       "name": "ssrcloud.png",
       "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/dark/ssrcloud.png"
+    },
+    {
+      "name": "ssrcloud.png",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/mini/ssrcloud.png"
     },
     {
       "name": "ssrpass.png",
