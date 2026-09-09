@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4769个图标，导出时间：2026-09-08 11:24:31",
+  "description": "共4770个图标，导出时间：2026-09-09 11:28:12",
   "icons": [
     {
       "name": "lige",
@@ -18941,6 +18941,10 @@
     {
       "name": "icon",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/icon.png"
+    },
+    {
+      "name": "mi3d",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/mi3d.png"
     },
     {
       "name": "._NetEase_Music",
