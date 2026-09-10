@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4770个图标，导出时间：2026-09-09 11:28:12",
+  "description": "共4771个图标，导出时间：2026-09-10 11:26:17",
   "icons": [
     {
       "name": "lige",
@@ -18969,6 +18969,10 @@
     {
       "name": "BiliBili",
       "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/BiliBili.png"
+    },
+    {
+      "name": "Carrier",
+      "url": "https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Carrier.png"
     },
     {
       "name": "Clubhouse",
