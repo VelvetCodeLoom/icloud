@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4772个图标，导出时间：2026-09-12 11:28:36",
+  "description": "共4771个图标，导出时间：2026-09-13 11:35:13",
   "icons": [
     {
       "name": "lige",
@@ -18883,16 +18883,12 @@
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/RenderingTermiusDark.png"
     },
     {
-      "name": "ShadowMods",
-      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowMods.png"
-    },
-    {
-      "name": "ShadowStore",
-      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore.png"
-    },
-    {
       "name": "ShadowStore_01",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore_01.png"
+    },
+    {
+      "name": "ShadowStore_01_512",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/ShadowStore_01_512.png"
     },
     {
       "name": "ShadowStore_02",
