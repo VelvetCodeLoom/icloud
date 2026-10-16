@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4774个图标，导出时间：2026-10-15 11:32:02",
+  "description": "共4775个图标，导出时间：2026-10-16 11:27:44",
   "icons": [
     {
       "name": "lige",
@@ -18869,6 +18869,10 @@
     {
       "name": "CAD",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/CAD.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/Discord.png"
     },
     {
       "name": "LOWERTOP",
