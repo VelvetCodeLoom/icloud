@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4776个图标，导出时间：2026-11-01 12:45:37",
+  "description": "共4777个图标，导出时间：2026-11-02 12:47:16",
   "icons": [
     {
       "name": "lige",
@@ -18941,6 +18941,10 @@
     {
       "name": "Shadowrocket_trans",
       "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/Shadowrocket_trans.png"
+    },
+    {
+      "name": "Teld",
+      "url": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/img/Teld.png"
     },
     {
       "name": "WiFi_calling",
