@@ -1,6 +1,6 @@
 {
   "name": "图标数据集合",
-  "description": "共4777个图标，导出时间：2026-11-25 15:19:39",
+  "description": "共4773个图标，导出时间：2026-11-26 15:08:12",
   "icons": [
     {
       "name": "lige",
@@ -3021,22 +3021,6 @@
     {
       "name": "yztcloud",
       "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/06jichang/yztcloud.png"
-    },
-    {
-      "name": "王者荣耀国际服_120.png",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/王者荣耀国际服_120.png"
-    },
-    {
-      "name": "MLBB_120",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/MLBB_120.png"
-    },
-    {
-      "name": "原神_120",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/原神_120.png"
-    },
-    {
-      "name": "figma",
-      "url": "https://raw.githubusercontent.com/leekowen/surge-games/main/icon/figma.png"
     },
     {
       "name": "01.png",
